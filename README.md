@@ -1,6 +1,6 @@
 # Pokedex
 
-- A Pokédex, é uma enciclopédia virtual portátil que os treinadores Pokémon transportam para registrar todas as informações das espécies diferentes de Pokemon que são encontradas durante suas aventuras.
+A Pokédex, é uma enciclopédia virtual portátil que os treinadores Pokémon transportam para registrar todas as informações das espécies diferentes de Pokemon que são encontradas durante suas aventuras.
 
 ## Technologies
 
@@ -17,7 +17,7 @@
 
 ## Test
 
-- Para testar o projeto: <a href="https://gustavoestevesr.github.io/POKEDEX_JS/">Acesse aqui!<a>
+Para testar o projeto: <a href="https://gustavoestevesr.github.io/POKEDEX_JS/">Acesse aqui!<a>
 
 ## Screenshots
 
