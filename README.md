@@ -1,6 +1,6 @@
 # POKEDEX_JS
 
-HTML + CSS3 + JAVSCRIPT
+HTML + CSS3 + JAVASCRIPT
 - CONSUMO DE API "https://pokeapi.co/"
 - EXTRAÇÃO DE DADOS
 
